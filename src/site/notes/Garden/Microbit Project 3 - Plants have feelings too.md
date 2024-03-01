@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/microbit-project-3-plants-have-feelings-too/","tags":["python","embedded","plants","microbit"],"created":"2024-03-01T18:51:48.504+01:00","updated":"2024-03-01T18:55:42.157+01:00"}
+{"dg-publish":true,"permalink":"/garden/microbit-project-3-plants-have-feelings-too/","tags":["python","embedded","plants","microbit"],"created":"2024-03-01T18:51:48.504+01:00","updated":"2024-03-01T18:57:00.881+01:00"}
 ---
 
-# Project #3: Plants have feelings too
+# Project # 3: Plants have feelings too
 
 I have recently been pretty bad at keeping my house plants alive. I need to add reminders to take care of my plants, and I usually end up ignoring them as "I'll do it when I get home", and then I almost never do. **Wouldn't it be nice if the plant could tell you that it needs attention?**
 
