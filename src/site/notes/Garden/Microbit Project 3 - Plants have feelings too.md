@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/microbit-project-3-plants-have-feelings-too/","tags":["python","embedded","plants","microbit"],"created":"2024-03-01T18:51:48.504+01:00","updated":"2024-03-03T11:41:26.524+01:00"}
+{"dg-publish":true,"permalink":"/garden/microbit-project-3-plants-have-feelings-too/","tags":["python","embedded","plants","microbit","how-to"],"created":"2024-03-01T18:51:48.504+01:00","updated":"2024-03-03T15:50:30.229+01:00"}
 ---
 
 # Project # 3: Plants have feelings too
