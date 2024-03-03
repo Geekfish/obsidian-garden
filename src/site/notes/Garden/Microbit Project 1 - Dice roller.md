@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/microbit-project-1-dice-roller/","tags":["microbit","python","embedded","games"],"created":"2024-03-01T18:48:35.833+01:00","updated":"2024-03-01T18:57:07.297+01:00"}
+{"dg-publish":true,"permalink":"/garden/microbit-project-1-dice-roller/","tags":["microbit","python","embedded","games"],"created":"2024-03-01T18:48:35.833+01:00","updated":"2024-03-03T11:41:10.014+01:00"}
 ---
 
 # Project # 1: Dice roller
+
+Original publication date: Dec. 22, 2015
 
 So the plan is to make a simple dice roller application.
 
@@ -24,5 +26,3 @@ I created a [repo](https://github.com/Geekfish/microbit-week/) for the rest of t
 ![dice roller demo](http://i.giphy.com/d2Z6C1b3VckTDHpe.gif)
 
 I just realised this is very similar to what Martin O'Hanlon did with his [8-ball shuffle](http://www.stuffaboutcode.com/2015/11/microbit-magic-8-ball-with-micropython.html), our solution was actually pretty similar. I had to add some time thresholds as well, otherwise the shake event ended up happening way too easily and offset.
-
-Original publication date: Dec. 22, 2015
