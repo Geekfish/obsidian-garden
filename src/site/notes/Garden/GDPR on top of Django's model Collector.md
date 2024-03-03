@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/gdpr-on-top-of-django-s-model-collector/","created":"2024-03-03T11:42:31.050+01:00","updated":"2024-03-03T11:51:30.248+01:00"}
+{"dg-publish":true,"permalink":"/garden/gdpr-on-top-of-django-s-model-collector/","tags":["python","django","gdpr","outdated","how-to"],"created":"2024-03-03T11:42:31.050+01:00","updated":"2024-03-03T15:50:14.075+01:00"}
 ---
 
 
@@ -14,7 +14,7 @@ In practice, it can be hard to figure out all the possible connections of relate
 
 Django tries to partially solve this problem by defining and managing most relations and constraints on the application level. Users of the Django admin may be familiar with this delete confirmation view:
 
-![django_admin_delete.png](/img/user/Garden/Assets/Note%20Images/django_admin_delete.png)
+![Django Admin user deletion view](https://blog-assets.eleni.co/django_admin_delete.png)
 
 This is possible because Django contains an object collector that will lookup those relations. When we run `user.delete()` Django will not just execute
 
@@ -22,7 +22,7 @@ This is possible because Django contains an object collector that will lookup th
 DELETE FROM `myapp_users` WHERE `myapp_users`.`id` = x
 ```
 
-but will first traverse all relations and collect all directly and indirectly related objects, which it will then clean up as appropriate. According to [Django docs](https://web.archive.org/web/20220703114108/https://docs.djangoproject.com/en/2.1/ref/models/fields/#django.db.models.CASCADE) no ON DELETE CASCADE rule is ever defined in the DB, it is just emulated by the ORM.
+but will first traverse all relations and collect all directly and indirectly related objects, which it will then clean up as appropriate. According to [Django docs](https://docs.djangoproject.com/en/2.1/ref/models/fields/#django.db.models.CASCADE) no ON DELETE CASCADE rule is ever defined in the DB, it is just emulated by the ORM.
 
 While it can sometimes be frustrating to not have the DB fully manage those relations, we can, in some cases, use this Django feature to our advantage.
 
@@ -101,7 +101,7 @@ So, we've been happily collecting and exporting data, but now it's time to delet
 
 Deleted data is data we no longer need to really worry about (DISCLAIMER: I enjoy deleting stuff, including code).
 
-If you simply remove an instance through the ORM, you will get back a summary of what was deleted. [From the Django docs](https://web.archive.org/web/20220703114108/https://docs.djangoproject.com/en/2.1/topics/db/queries/#deleting-objects)
+If you simply remove an instance through the ORM, you will get back a summary of what was deleted. [From the Django docs](https://docs.djangoproject.com/en/2.1/topics/db/queries/#deleting-objects)
 
 ```python
 Entry.objects.filter(pub_date__year=2005).delete()
@@ -160,7 +160,7 @@ class DeleteStats(object):
         raise IndexError()
 ```
 
-([also available as a Gist with mini-docs](https://web.archive.org/web/20220703114108/https://gist.github.com/Geekfish/5b171fd76f0990343d06ac3194497383))
+[also available as a Gist with mini-docs](https://gist.github.com/Geekfish/5b171fd76f0990343d06ac3194497383)
 
 ```python
 import logging  
@@ -227,7 +227,7 @@ IRL, instead of one long function, you could pass the accumulator into your clea
     
     Without any additional context, action `"id": 5` means absolutely nothing to the user or any 3rd party.
     
-    For both of the above, consider creating an explicit **transformation/serialisation layer** that can add or remove fields as appropriate (I've used [`Serializer` from the DRF](https://web.archive.org/web/20220703114108/http://www.django-rest-framework.org/api-guide/serializers/) for that purpose in the past, probably worthy of its own post)
+    For both of the above, consider creating an explicit **transformation/serialisation layer** that can add or remove fields as appropriate (I've used [`Serializer` from the DRF](http://www.django-rest-framework.org/api-guide/serializers/) for that purpose in the past, probably worthy of its own post)
     
 
 Finally, **a one-off automated solution is not a replacement for solid process**. New features will be added. New services will be deployed. Data will change form and move about. It is worth having a data-housekeeping checklist to reference in every change, to ensure that your automated processes stay up to date.
