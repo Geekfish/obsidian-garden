@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/a-week-with-micro-bit/","tags":["python","embedded","microbit"],"created":"2024-03-01T17:13:50.534+01:00","updated":"2024-03-01T18:54:34.138+01:00"}
+{"dg-publish":true,"permalink":"/garden/a-week-with-micro-bit/","tags":["python","embedded","microbit"],"created":"2024-03-01T17:13:50.534+01:00","updated":"2024-03-03T11:41:50.188+01:00"}
 ---
 
-# A week with micro-bit
+# A week with the BBC micro:bit
 
 Mei-Xiu (RIP) was a [BBC micro:bit ](https://www.bbc.co.uk/mediacentre/mediapacks/microbit)device running MicroPython, one of five devices that were sent out to travel the world and the python community.
 
