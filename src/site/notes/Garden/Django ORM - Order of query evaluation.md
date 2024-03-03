@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/django-orm-order-of-query-evaluation/","created":"2024-03-03T11:39:45.174+01:00","updated":"2024-03-03T11:40:45.518+01:00"}
+{"dg-publish":true,"permalink":"/garden/django-orm-order-of-query-evaluation/","tags":["python","django","sql","outdated","how-to"],"created":"2024-03-03T11:39:45.174+01:00","updated":"2024-03-03T15:50:10.628+01:00"}
 ---
 
 # Django ORM - Order of query evaluation
