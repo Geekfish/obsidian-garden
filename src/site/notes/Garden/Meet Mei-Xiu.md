@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/garden/meet-mei-xiu/","tags":["python","embedded","microbit"],"created":"2024-03-01T18:37:09.032+01:00","updated":"2024-03-01T18:48:57.619+01:00"}
+{"dg-publish":true,"permalink":"/garden/meet-mei-xiu/","tags":["python","embedded","microbit"],"created":"2024-03-01T18:37:09.032+01:00","updated":"2024-03-03T11:41:01.061+01:00"}
 ---
 
 # Meet Mei-Xiu
+
+Original publication date: Dec. 22, 2015
+
 Sent to me by its previous host, Stewart Watkiss. Haven't flashed the device yet so it looks like the robot controlling hex is still loaded.
 
 ![2dbf0e73-f016-4cbe-9ecf-5aa7107cdf00.JPG.640x640_q85.jpg](/img/user/Files/2dbf0e73-f016-4cbe-9ecf-5aa7107cdf00.JPG.640x640_q85.jpg)
@@ -19,4 +22,3 @@ The Micro:bit gets a warm Christmas welcome by some of the other flashing LEDs i
 
 ![ho ho ho](http://i.giphy.com/26tP0oYwIJ184Kf4Y.gif)
 
-Original publication date: Dec. 22, 2015
