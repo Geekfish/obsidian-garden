@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/setup-custom-aws-cloud-front-cname/","tags":["aws","how-to"],"created":"2024-03-03T14:24:35.592+01:00","updated":"2024-03-03T16:25:38.449+01:00"}
+{"dg-publish":true,"permalink":"/garden/setup-custom-aws-cloud-front-cname/","tags":["aws","how-to"],"created":"2024-03-03T14:24:35.592+01:00","updated":"2024-03-03T16:26:37.267+01:00"}
 ---
 
 # Setup custom AWS CloudFront CNAME
@@ -15,10 +15,10 @@ Assuming we want to point an AWS CloudFront to use `my-assets.example.com:
 	* Create a new public certificate
 	* NB: The region **must be** US-East N. Virginia!
 	* You can also get it from somewhere else and import it
-1. On the DNS provider:
+2. On the DNS provider:
 	* Add verification CNAME
 	* Add CNAME and pointing from domain to distribution domain, e.g. `my-assets.example.com -> a2cc2124adda.cloudfront.net
-2. Ensure it all works:
+3. Ensure it all works:
 ```sh
 > dig my-assets.example.com)
 # ....
