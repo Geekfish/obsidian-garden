@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/microbit-project-1-dice-roller/","tags":["microbit","python","embedded","games"],"created":"2024-03-01T18:48:35.833+01:00","updated":"2024-03-03T11:41:10.014+01:00"}
+{"dg-publish":true,"permalink":"/garden/microbit-project-1-dice-roller/","tags":["microbit","python","embedded","games","how-to"],"created":"2024-03-01T18:48:35.833+01:00","updated":"2024-03-03T15:50:19.062+01:00"}
 ---
 
 # Project # 1: Dice roller
