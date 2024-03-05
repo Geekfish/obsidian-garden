@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T17:26:49.478+01:00"}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T17:27:35.260+01:00"}
 ---
 
-# 👋 'ello!
 ![Digital Garden|420](https://blog-assets.eleni.co/logo/garden_logo_cropped.webp) 
-
+# 👋 'ello!
 Thanks for stopping by 🙂
 I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome to my "digital garden"!
 ## Find me on
