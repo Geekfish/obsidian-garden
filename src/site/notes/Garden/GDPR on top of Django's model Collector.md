@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/gdpr-on-top-of-django-s-model-collector/","tags":["python","django","gdpr","outdated","how-to"],"created":"2024-03-03T11:42:31.050+01:00","updated":"2024-03-03T15:50:14.075+01:00"}
+{"dg-publish":true,"permalink":"/garden/gdpr-on-top-of-django-s-model-collector/","tags":["python","django","gdpr","outdated","how-to"],"created":"2024-03-03T11:42:31.050+01:00","updated":"2024-03-05T13:16:52.390+01:00"}
 ---
 
 
@@ -14,7 +14,7 @@ In practice, it can be hard to figure out all the possible connections of relate
 
 Django tries to partially solve this problem by defining and managing most relations and constraints on the application level. Users of the Django admin may be familiar with this delete confirmation view:
 
-![Django Admin user deletion view](https://blog-assets.eleni.co/django_admin_delete.png)
+![Django Admin user deletion view](https://blog-assets.eleni.co/media/django_admin_delete.png)
 
 This is possible because Django contains an object collector that will lookup those relations. When we run `user.delete()` Django will not just execute
 
