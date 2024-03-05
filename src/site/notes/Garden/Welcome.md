@@ -20,7 +20,7 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 - [[Garden/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
 - [[Garden/Top tags\|Top tags]]
 - [[Garden/Setup S3 bucket for use with Cloudfront\|Setup S3 bucket for use with Cloudfront]]
-- [[Garden/Digital Garden media on S3 + Cloudfront\|Digital Garden media on S3 + Cloudfront]]
+- [[Garden/Hosting assets on S3 + Cloudfront\|Hosting assets on S3 + Cloudfront]]
 - [[Garden/The Time-Travelling Islands\|The Time-Travelling Islands]]
 - [[Garden/Setup custom AWS CloudFront CNAME\|Setup custom AWS CloudFront CNAME]]
 - [[Garden/On Simplicity\|On Simplicity]]
