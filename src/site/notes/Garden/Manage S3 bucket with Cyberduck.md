@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/manage-s3-bucket-with-cyberduck/","tags":["how-to","aws"],"created":"2024-03-05T18:37:40.313+01:00","updated":"2024-03-05T18:44:18.272+01:00"}
+{"dg-publish":true,"permalink":"/garden/manage-s3-bucket-with-cyberduck/","tags":["how-to","aws"],"created":"2024-03-05T18:37:40.313+01:00","updated":"2024-03-05T18:45:13.671+01:00"}
 ---
+
+# Manage S3 bucket with Cyberduck 🦆
 
 Manage S3 "files" (objects) using [Cyberduck](https://cyberduck.io/).
 There's quite a bit of [documentation](https://docs.cyberduck.io/protocols/s3/), but there are suggested I didn't like, like a user with full S3 permissions, and some parts that didn't work (e.g. bucket name as server url). 
