@@ -16,6 +16,7 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
+- [[Garden/Manage S3 bucket with Cyberduck\|Manage S3 bucket with Cyberduck]]
 - [[Garden/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
 - [[Garden/Top tags\|Top tags]]
 - [[Garden/Setup S3 bucket for use with Cloudfront\|Setup S3 bucket for use with Cloudfront]]
@@ -25,7 +26,6 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 - [[Garden/On Simplicity\|On Simplicity]]
 - [[Garden/GDPR on top of Django's model Collector\|GDPR on top of Django's model Collector]]
 - [[Garden/Django ORM - Order of query evaluation\|Django ORM - Order of query evaluation]]
-- [[Garden/Microbit Project 3 - Plants have feelings too\|Microbit Project 3 - Plants have feelings too]]
 
 { .block-language-dataview}
 
