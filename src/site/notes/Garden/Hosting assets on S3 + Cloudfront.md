@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/hosting-assets-on-s3-cloudfront/","tags":["how-to","aws","obsidian"],"created":"2024-03-05T14:48:26.787+01:00","updated":"2024-03-05T19:05:21.527+01:00"}
+{"dg-publish":true,"permalink":"/garden/hosting-assets-on-s3-cloudfront/","tags":["how-to","aws","obsidian"],"created":"2024-03-05T14:48:26.787+01:00","updated":"2024-03-05T19:16:18.803+01:00"}
 ---
 
 # Hosting assets on S3 + Cloudfront
@@ -16,5 +16,4 @@ Here's my manual setup for making any asset available through S3 (storage) and C
 ## Notes
 * This currently requires some manual work of uploading the file to S3 and linking to it from the note using the public Cloudfront URL.
 * A nice thing about this is that the bucket itself doesn't need to be public. Content (could also be just one specific directory) is published only through Cloudfront.
- * One could create or extend an existing S3 plugin (e.g. https://github.com/jvsteiner/s3-image-uploader) with some Cloudfront features.
-	 * Or, take advantage of Vercel/Netify's blob storage and CDN.
+ * There is also an Obsidian plugin for storing files on S3 ( https://github.com/jvsteiner/s3-image-uploader)
