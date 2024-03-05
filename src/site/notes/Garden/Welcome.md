@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T17:44:08.458+01:00"}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T18:24:03.669+01:00"}
 ---
 
 # 👋 'ello!
@@ -16,16 +16,16 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
-- [[Garden/On Simplicity\|On Simplicity]]
+- [[Garden/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
+- [[Garden/Top tags\|Top tags]]
+- [[Garden/Setup S3 bucket for use with Cloudfront\|Setup S3 bucket for use with Cloudfront]]
+- [[Garden/The Time-Travelling Islands\|The Time-Travelling Islands]]
 - [[Garden/Setup custom AWS CloudFront CNAME\|Setup custom AWS CloudFront CNAME]]
+- [[Garden/On Simplicity\|On Simplicity]]
 - [[Garden/GDPR on top of Django's model Collector\|GDPR on top of Django's model Collector]]
 - [[Garden/Django ORM - Order of query evaluation\|Django ORM - Order of query evaluation]]
 - [[Garden/Microbit Project 3 - Plants have feelings too\|Microbit Project 3 - Plants have feelings too]]
-- [[Garden/A week with micro-bit\|A week with micro-bit]]
-- [[Garden/Meet Mei-Xiu\|Meet Mei-Xiu]]
-- [[Garden/Microbit Project 1 - Dice roller\|Microbit Project 1 - Dice roller]]
 - [[Garden/Microbit Project 2 - Snowflakes\|Microbit Project 2 - Snowflakes]]
-- [[Garden/The Time-Travelling Islands\|The Time-Travelling Islands]]
 
 { .block-language-dataview}
 
