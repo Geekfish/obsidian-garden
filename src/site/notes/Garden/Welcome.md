@@ -1,15 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T13:55:49.251+01:00"}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T16:04:10.167+01:00"}
 ---
 
 # 👋 'ello!
 
 Thanks for stopping by 🙂
 
-This page is under construction. In the meantime, you can find more links to my content on my [homepage](https://www.eleni.co).
+Welcome to my "digital garden". It's built on top of my [Obsidian]() notes, using the excellent [Obsidian Digital Garden](https://dg-docs.ole.dev/) plugin, hosted on [Vercel](https://vercel.com).
 
-TODO: links - replace homepage
+## Find me on
+[🤖 Github](https://github.com/Geekfish) |  [💼 LinkedIn](https://www.linkedin.com/in/%F0%9F%A4%96-eleni-lixourioti-07b88719/)
+ [🐘 Mastodon](https://chaos.social/@eleni) | [🦃 Twitter/X (if you really have to)](https://twitter.com/geekfish_
+ [🤳 Instagram](https://www.instagram.com/geekfish/) | [📷 Adobe Portfolio](https://photos.eleni.co)
 
+...or by good old [email](mailto:eleni.co@eleni.mozmail.com)
 ## Pinned
 - [[Garden/Microbit Project 3 - Plants have feelings too\|Microbit Project 3 - Plants have feelings too]]
 
@@ -26,12 +30,12 @@ TODO: links - replace homepage
 | Topic          | Count |
 | -------------- | ----- |
 | #python        | 7     |
+| #how-to        | 6     |
 | #embedded      | 5     |
-| #how-to        | 5     |
 | #microbit      | 5     |
+| #aws           | 2     |
 | #django        | 2     |
 | #outdated      | 2     |
-| #aws           | 1     |
 | #communication | 1     |
 | #fallacies     | 1     |
 | #games         | 1     |
