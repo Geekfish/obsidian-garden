@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/setup-custom-aws-cloud-front-cname/","tags":["aws","how-to"],"created":"2024-03-03T14:24:35.592+01:00","updated":"2024-03-05T14:53:16.938+01:00"}
+{"dg-publish":true,"permalink":"/garden/setup-custom-aws-cloud-front-cname/","tags":["aws","how-to"],"created":"2024-03-03T14:24:35.592+01:00","updated":"2024-03-05T18:33:32.742+01:00"}
 ---
 
 # Setup custom AWS CloudFront CNAME
+
+Part of: [[All Notes/Digital Garden media on S3 + Cloudfront\|Digital Garden media on S3 + Cloudfront]]]
 
 AWS CloudFront distributions provide a random subdomain (e.g. `a2cc2124adda.cloudfront.net`), which comes with an SSL certificate.
 If we want to use a custom domain name, we have to also setup an SSL certificate.
