@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T17:27:35.260+01:00"}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T17:28:22.568+01:00"}
 ---
 
-![Digital Garden|420](https://blog-assets.eleni.co/logo/garden_logo_cropped.webp) 
+![Digital Garden|340](https://blog-assets.eleni.co/logo/garden_logo_cropped.webp) 
 # 👋 'ello!
 Thanks for stopping by 🙂
 I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome to my "digital garden"!
