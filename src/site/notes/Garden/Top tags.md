@@ -5,11 +5,11 @@
 # Top tags
 | Topic          | Count |
 | -------------- | ----- |
-| #how-to        | 7     |
+| #how-to        | 8     |
 | #python        | 7     |
 | #embedded      | 5     |
 | #microbit      | 5     |
-| #aws           | 3     |
+| #aws           | 4     |
 | #django        | 2     |
 | #outdated      | 2     |
 | #communication | 1     |
