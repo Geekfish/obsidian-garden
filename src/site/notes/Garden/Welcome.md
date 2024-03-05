@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T16:07:29.699+01:00"}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T16:22:47.519+01:00"}
 ---
 
 # 👋 'ello!
@@ -14,7 +14,7 @@ This page is built on top of my
 
 ## Find me on
 [🤖 Github](https://github.com/Geekfish) |  [💼 LinkedIn](https://www.linkedin.com/in/%F0%9F%A4%96-eleni-lixourioti-07b88719/)
- [🐘 Mastodon](https://chaos.social/@eleni) | [🦃 Twitter/X (if you really have to)](https://twitter.com/geekfish_
+ [🐘 Mastodon](https://chaos.social/@eleni) | [🦃 Twitter/X (if you really have to)](https://twitter.com/geekfish_)
  [🤳 Instagram](https://www.instagram.com/geekfish/) | [📷 Adobe Portfolio](https://photos.eleni.co)
 
 ...or by good old [email](mailto:eleni.co@eleni.mozmail.com)
