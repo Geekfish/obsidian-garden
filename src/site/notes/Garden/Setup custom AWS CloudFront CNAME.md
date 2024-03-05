@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/setup-custom-aws-cloud-front-cname/","tags":["aws","how-to"],"created":"2024-03-03T14:24:35.592+01:00","updated":"2024-03-05T19:09:45.951+01:00"}
+{"dg-publish":true,"permalink":"/garden/setup-custom-aws-cloud-front-cname/","tags":["aws","how-to"],"created":"2024-03-03T14:24:35.592+01:00","updated":"2024-03-05T19:13:25.857+01:00"}
 ---
 
 # Setup custom AWS CloudFront CNAME
@@ -22,7 +22,7 @@ Assuming we want to point an AWS CloudFront to use `assets.example.com`:
 	* Add CNAME and pointing from domain to distribution domain, e.g. `assets.example.com -> a2cc2124adda.cloudfront.net`
 3. Ensure it all works:
 ```sh
-> dig assets.example.com)
+> dig assets.example.com
 # ....
 assets.example.com.	13104	IN	CNAME	a2cc2124adda.cloudfront.net.
 # a2cc2124adda.cloudfront.net. 54 IN	A	3.162.78.124
