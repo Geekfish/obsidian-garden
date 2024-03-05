@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/hosting-assets-on-s3-cloudfront/","tags":["how-to","aws","obsidian"],"created":"2024-03-05T14:48:26.787+01:00","updated":"2024-03-05T19:16:18.803+01:00"}
+{"dg-publish":true,"permalink":"/garden/hosting-assets-on-s3-cloudfront/","tags":["how-to","aws"],"created":"2024-03-05T14:48:26.787+01:00","updated":"2024-03-05T19:16:41.422+01:00"}
 ---
 
 # Hosting assets on S3 + Cloudfront
