@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T16:22:47.519+01:00"}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T16:23:22.901+01:00"}
 ---
 
 # 👋 'ello!
@@ -8,9 +8,7 @@ Thanks for stopping by 🙂
 
 I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome to my "digital garden"!
 
-This page is built on top of my 
-[Obsidian]() notes, using the excellent [Obsidian Digital Garden](https://dg-docs.ole.dev/) plugin, hosted on [Vercel](https://vercel.com).
-
+This page is built on top of my [Obsidian](https://obsidian.md/) notes, using the excellent [Obsidian Digital Garden](https://dg-docs.ole.dev/) plugin and hosted on [Vercel](https://vercel.com).
 
 ## Find me on
 [🤖 Github](https://github.com/Geekfish) |  [💼 LinkedIn](https://www.linkedin.com/in/%F0%9F%A4%96-eleni-lixourioti-07b88719/)
