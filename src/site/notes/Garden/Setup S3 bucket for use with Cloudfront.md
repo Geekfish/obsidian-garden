@@ -4,7 +4,7 @@
 
 # Setup S3 bucket for use with Cloudfront
 
-Part of: [[All Notes/Digital Garden media on S3 + Cloudfront\|Digital Garden media on S3 + Cloudfront]]
+Part of: [[Garden/Digital Garden media on S3 + Cloudfront\|Digital Garden media on S3 + Cloudfront]]
 
 1. Create an S3 bucket
 	e.g. `blog-assets.example.com`
