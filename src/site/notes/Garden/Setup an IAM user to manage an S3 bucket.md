@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/garden/setup-an-iam-user-to-manage-an-s3-bucket/","tags":["aws","how-to"],"created":"2024-03-05T18:07:23.783+01:00","updated":"2024-03-05T18:11:29.726+01:00"}
+{"dg-publish":true,"permalink":"/garden/setup-an-iam-user-to-manage-an-s3-bucket/","tags":["aws","how-to"],"created":"2024-03-05T18:07:23.783+01:00","updated":"2024-03-05T18:18:59.546+01:00"}
 ---
 
 We can create an  IAM user that only has permissions to manage a desired bucket, e.g. `S3-blog-assets-manager`.
 
 The most basic permissions would be to just list and manage objects in the entire bucket:
 
-```
+```json
 {
     "Version": "2012-10-17",
     "Statement": [
