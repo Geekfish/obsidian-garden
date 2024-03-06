@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/manage-s3-bucket-with-cyberduck/","tags":["how-to","aws"],"created":"2024-03-05T18:37:40.313+01:00","updated":"2024-03-05T19:11:41.582+01:00"}
+{"dg-publish":true,"permalink":"/garden/manage-s3-bucket-with-cyberduck/","tags":["how-to","aws"],"created":"2024-03-05T18:37:40.313+01:00","updated":"2024-03-06T13:42:13.885+01:00"}
 ---
 
 # Manage S3 bucket with Cyberduck 🦆
@@ -7,7 +7,7 @@
 Part of: [[Garden/Hosting assets on S3 + Cloudfront\|Hosting assets on S3 + Cloudfront]]
 
 Manage S3 "files" (objects) using [Cyberduck](https://cyberduck.io/).
-There's quite a bit of [documentation](https://docs.cyberduck.io/protocols/s3/), but there are suggested I didn't like, like a user with full S3 permissions, and some parts that didn't work (e.g. bucket name as server url). 
+There's quite a bit of [documentation](https://docs.cyberduck.io/protocols/s3/), but there are suggestions I didn't like (e.g. user with full S3 permissions), and some parts that didn't work (e.g. bucket name in the server url). 
 
 Here's what did work for me:
 1. [[Garden/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
