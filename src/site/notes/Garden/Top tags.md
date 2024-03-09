@@ -13,7 +13,7 @@
 | #django        | 2     |
 | #outdated      | 2     |
 | #communication | 1     |
+| #cycling       | 1     |
 | #fallacies     | 1     |
-| #games         | 1     |
 
 { .block-language-dataview}
