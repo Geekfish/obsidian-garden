@@ -16,6 +16,7 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
+- [[Garden/Karvonen HR training zones\|Karvonen HR training zones]]
 - [[Garden/Manage S3 bucket with Cyberduck\|Manage S3 bucket with Cyberduck]]
 - [[Garden/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
 - [[Garden/Top tags\|Top tags]]
@@ -25,7 +26,6 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 - [[Garden/Setup custom AWS CloudFront CNAME\|Setup custom AWS CloudFront CNAME]]
 - [[Garden/On Simplicity\|On Simplicity]]
 - [[Garden/GDPR on top of Django's model Collector\|GDPR on top of Django's model Collector]]
-- [[Garden/Django ORM - Order of query evaluation\|Django ORM - Order of query evaluation]]
 
 { .block-language-dataview}
 
