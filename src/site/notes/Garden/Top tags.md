@@ -10,8 +10,8 @@
 | #aws           | 5     |
 | #embedded      | 5     |
 | #microbit      | 5     |
+| #house-sitting | 3     |
 | #django        | 2     |
-| #house-sitting | 2     |
 | #outdated      | 2     |
 | #communication | 1     |
 | #cycling       | 1     |
