@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:01:32.349+02:00","updated":"2024-06-08T23:38:17.055+02:00"}
+{"dg-publish":true,"permalink":"/garden/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:40:18.302+02:00","updated":"2024-06-08T23:40:45.898+02:00"}
 ---
 
 # Cat Care Guide
@@ -35,4 +35,3 @@ Altenbraker Str. 29/Ecke Emser Str., 12051 (Neukölln)
 tel. `030 854 20 50`
 Kufsteiner Straße, 10825 (Schöneberg)
 In the unlikely case, Taxi is probably the fastest way to get there.
-
