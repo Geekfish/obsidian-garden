@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/plant-care-guide/","created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-08T22:11:18.796+02:00"}
+{"dg-publish":true,"permalink":"/garden/plant-care-guide/","created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-08T22:12:51.922+02:00"}
 ---
 
+# Plant Care Guide
 <iframe src="https://giphy.com/embed/ohKsuoQwOdmmGubVJm" width="480" height="290" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Hi there! Thank you for taking care of our flat's jungle!
