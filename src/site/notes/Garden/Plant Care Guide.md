@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/plant-care-guide/","created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-08T22:12:51.922+02:00"}
+{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-08T22:23:18.614+02:00"}
 ---
 
 # Plant Care Guide
