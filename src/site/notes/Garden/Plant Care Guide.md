@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-08T22:42:29.338+02:00"}
+{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-08T22:48:20.099+02:00"}
 ---
 
 # Plant Care Guide
@@ -26,7 +26,7 @@ Use this cup:
 
 #### *The Chonkers*
 ℹ️ Bio: These used to be small, now they need to start paying rent.
-💧 Water: **1/2 cup**
+💧 Water: **1 cup each**
 
 ![IMG20240608134841 Medium.jpeg|400](/img/user/Files/IMG20240608134841%20Medium.jpeg)
 
