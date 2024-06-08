@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-03-05T18:24:03.669+01:00"}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-06-08T20:36:36.634+02:00"}
 ---
 
 # 👋 'ello!
@@ -16,6 +16,7 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
+- [[Garden/Plant Care Guide\|Plant Care Guide]]
 - [[Garden/Karvonen HR training zones\|Karvonen HR training zones]]
 - [[Garden/Manage S3 bucket with Cyberduck\|Manage S3 bucket with Cyberduck]]
 - [[Garden/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
@@ -25,7 +26,6 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 - [[Garden/The Time-Travelling Islands\|The Time-Travelling Islands]]
 - [[Garden/Setup custom AWS CloudFront CNAME\|Setup custom AWS CloudFront CNAME]]
 - [[Garden/On Simplicity\|On Simplicity]]
-- [[Garden/GDPR on top of Django's model Collector\|GDPR on top of Django's model Collector]]
 
 { .block-language-dataview}
 
