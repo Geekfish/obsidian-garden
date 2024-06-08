@@ -16,7 +16,7 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
-- [[Garden/Cat Care Guide two\|Cat Care Guide two]]
+- [[Garden/Cat Care Guide three\|Cat Care Guide three]]
 - [[Garden/Cat Care Guide\|Cat Care Guide]]
 - [[Garden/Plant Care Guide\|Plant Care Guide]]
 - [[Garden/Karvonen HR training zones\|Karvonen HR training zones]]
