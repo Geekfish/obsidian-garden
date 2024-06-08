@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-08T22:23:18.614+02:00"}
+{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-08T22:25:07.741+02:00"}
 ---
 
 # Plant Care Guide
-<iframe src="https://giphy.com/embed/ohKsuoQwOdmmGubVJm" width="480" height="290" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![happy plant](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F3a2VkcDR6NDNreDZzdmUxdDFsc3VzbjYyeW5laThxdjRraGMxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohKsuoQwOdmmGubVJm/giphy.gif)
 
 Hi there! Thank you for taking care of our flat's jungle!
 Here's a small guide on what they usually need.
