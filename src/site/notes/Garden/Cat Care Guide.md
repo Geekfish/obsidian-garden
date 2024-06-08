@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:01:32.349+02:00","updated":"2024-06-08T23:36:47.190+02:00"}
+{"dg-publish":true,"permalink":"/garden/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:01:32.349+02:00","updated":"2024-06-08T23:38:17.055+02:00"}
 ---
 
 # Cat Care Guide
