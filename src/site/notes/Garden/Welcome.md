@@ -16,6 +16,7 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
+- [[Garden/Cat Care Guide\|Cat Care Guide]]
 - [[Garden/Plant Care Guide\|Plant Care Guide]]
 - [[Garden/Karvonen HR training zones\|Karvonen HR training zones]]
 - [[Garden/Manage S3 bucket with Cyberduck\|Manage S3 bucket with Cyberduck]]
@@ -25,7 +26,6 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 - [[Garden/Hosting assets on S3 + Cloudfront\|Hosting assets on S3 + Cloudfront]]
 - [[Garden/The Time-Travelling Islands\|The Time-Travelling Islands]]
 - [[Garden/Setup custom AWS CloudFront CNAME\|Setup custom AWS CloudFront CNAME]]
-- [[Garden/On Simplicity\|On Simplicity]]
 
 { .block-language-dataview}
 
