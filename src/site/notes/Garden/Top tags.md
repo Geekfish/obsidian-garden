@@ -11,9 +11,9 @@
 | #embedded      | 5     |
 | #microbit      | 5     |
 | #django        | 2     |
+| #house-sitting | 2     |
 | #outdated      | 2     |
 | #communication | 1     |
 | #cycling       | 1     |
-| #fallacies     | 1     |
 
 { .block-language-dataview}
