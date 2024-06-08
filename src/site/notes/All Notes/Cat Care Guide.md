@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:01:32.349+02:00","updated":"2024-06-08T23:32:25.549+02:00"}
+{"dg-publish":true,"permalink":"/all-notes/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:01:32.349+02:00","updated":"2024-06-08T23:36:01.598+02:00"}
 ---
 
 # Cat Care Guide
@@ -10,12 +10,14 @@
 ☀️ **Morning:** 1 sachet of wet food each
 🌙 **Evening**: 1/2 sachet of wet food each + dry food
 
-TODO: measuring + plates
+🤢 To avoid things getting super stinky in the summer, rinse the sachets with water before throwing away (under the sink). Throw the bag away at the end of the week even if it's not full.
+
+TODO: measuring dry food + plates
 ## Medical
 
 ### Milo's leg
 A moth made the unfortunate decision to fly into our flat one night at 3am.
-Milo, in an attempt to eat the intruder, cut his hind right leg.
+Milo, attempting to eat the intruder, cut his hind right leg.
 This should heal just fine, but here's a pic for reference, in case there is some complication.
 ![IMG20240608165017(1).png|400](/img/user/Files/IMG20240608165017(1).png)
 
