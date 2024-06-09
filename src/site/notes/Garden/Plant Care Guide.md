@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-08T23:33:25.380+02:00"}
+{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-09T10:29:22.482+02:00"}
 ---
 
 # Plant Care Guide
@@ -41,7 +41,8 @@ Use this cup:
 
 ### How often to water
 Depending on the weather.
-If it's really hot and sunny they may need watering every evening. Especially the 🍋 **lemon tree**, cause it likes to be extra.
+If it's really hot and sunny they may need watering every evening.
+Especially the 🍋 **lemon tree**, cause it likes to be extra.
 
 ### How to measure water
 Use this bad boy:
