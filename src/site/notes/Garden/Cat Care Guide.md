@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:40:18.302+02:00","updated":"2024-06-08T23:40:45.898+02:00"}
+{"dg-publish":true,"permalink":"/garden/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:40:18.302+02:00","updated":"2024-06-09T13:01:05.326+02:00"}
 ---
 
 # Cat Care Guide
@@ -7,12 +7,35 @@
 
 ![IMG20240503234134 1.png|300](/img/user/Files/IMG20240503234134%201.png)![IMG20240524133347 1.png|300](/img/user/Files/IMG20240524133347%201.png)
 ## Food
+### Schedule
 ☀️ **Morning:** 1 sachet of wet food each
 🌙 **Evening**: 1/2 sachet of wet food each + dry food
 
-🤢 To avoid things getting super stinky in the summer, rinse the sachets with water before throwing away (under the sink). Throw the bag away at the end of the week even if it's not full.
+Milo is a big boy, so it's ok to give him a little bit more than Pinello in the evening. 
 
 TODO: measuring dry food + plates
+
+### 🤢 Stench-prevention tips
+ To avoid things getting super stinky in the summer,
+*  rinse the sachets with water before throwing away (garbage under the sink)
+* throw away the garbage at the end of the week even if the bin not full
+
+### Snacks
+Feel free to give them some snacks, especially after play. We store these in the cupboard.
+* Pinello _loves_ the dried chicken hearts (he screams in joy when you take them out). You can cut these a bit smaller.
+* Milo loves sauce/soup. Some days you can put the soup in his wet food bowl. 
+## Toilets
+There are 2 pretty big toilets, so **cleaning them once a day is ok**.
+### Litter bin
+Don't worry if you've not used one of these before, they're really easy to use. 
+* [How to change the bag when it's full](https://youtu.be/1BTc7gBoaXQ?t=112)
+* [How to replace the cartridge when totally empty](https://www.youtube.com/watch?v=1BTc7gBoaXQ) 
+  PS: in this case, please don't throw away the plastic case. We keep a few and refill them with bags.
+## Vacuum cleaner
+Found behind the bathroom door.
+### Emptying
+* To open: pull the top red handle (you probably want to do that over the garbage bin)
+* To close: push the top red handle back down, then close the bottom
 ## Medical
 
 ### Milo's leg
@@ -20,7 +43,12 @@ A moth made the unfortunate decision to fly into our flat one night at 3am.
 Milo, attempting to eat the intruder, cut his hind right leg.
 This should heal just fine, but here's a pic for reference, in case there is some complication.
 ![IMG20240608165017(1).png|400](/img/user/Files/IMG20240608165017(1).png)
-
+## Toys
+You can find toys all over the flat, and the bigger ones in storage.
+### Pinello vs Plastic
+Pinello is sometimes fussy with his food. But if you leave anything like a plastic bag or nylon string or worm-like toys around, he will try to swallow them. So best to put these toys back in storage.
+### Milo vs Headbands
+His favourite thing. Thankfully Pinello won't eat those.
 
 ### Vets
 👩‍⚕️ **Non-emergencies/regular hours**
