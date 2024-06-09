@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-09T10:29:22.482+02:00"}
+{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-10T00:53:29.541+02:00"}
 ---
 
 # Plant Care Guide
@@ -7,6 +7,8 @@
 
 Hi there! Thank you for taking care of our flat's jungle!
 Here's a small guide on what they usually need.
+
+Looking for the cat guide? See [[Garden/Cat Care Guide\|Cat Care Guide]]
 
 ## Indoor plants
 
