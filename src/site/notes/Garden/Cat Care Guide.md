@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:40:18.302+02:00","updated":"2024-06-10T00:51:22.545+02:00"}
+{"dg-publish":true,"permalink":"/garden/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:40:18.302+02:00","updated":"2024-06-10T00:53:12.163+02:00"}
 ---
 
 # Cat Care Guide
+Looking for the plants guide? See [[Garden/Plant Care Guide\|Plant Care Guide]]
+
 ## The monsters: Pinello  & Milo
 
 ![IMG20240503234134 1.png|300](/img/user/Files/IMG20240503234134%201.png)![IMG20240524133347 1.png|300](/img/user/Files/IMG20240524133347%201.png)
@@ -22,7 +24,7 @@ Milo is a big boy, so it's ok if he eats a bit more than Pinello in the evening.
 ### 🤢 Stench-prevention tips
  To avoid things getting super stinky in the summer,
 *  rinse the sachets with water before throwing away (garbage under the sink)
-* throw away the garbage at the end of the week even if the bin not full
+* throw away the garbage at the end of the week even if the bin is not full
 ### Snacks
 Feel free to give them some snacks, especially after play. We store these in the cupboard.
 * Pinello _loves_ the dried chicken hearts (he screams in joy when you take them out). You can cut these a bit smaller.
