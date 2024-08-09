@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-06-10T00:53:29.541+02:00"}
+{"dg-publish":true,"permalink":"/garden/plant-care-guide/","tags":["house-sitting"],"created":"2024-06-08T20:36:42.406+02:00","updated":"2024-08-09T13:40:09.524+02:00"}
 ---
 
 # Plant Care Guide
@@ -16,28 +16,29 @@ Looking for the cat guide? See [[Garden/Cat Care Guide\|Cat Care Guide]]
 Every 2-3 days, e.g. Monday, Wednesday, Friday
 ### How to measure water
 Use this cup:
-
-![IMG20240608135208 Medium.jpeg|300](/img/user/Files/IMG20240608135208%20Medium.jpeg)
-
+![image|300](https://blog-assets.eleni.co/4add872405bee578fadce4f74c3e07e9.jpeg)
 ### Meet the ~~parents~~ plants
 #### *Zebrina*
 ℹ️ Bio: If she looks evil, it's because she had to live with tiny flies in her roots for the entire winter.
 💧 Water: **1/2 cup**
 
-![IMG20240608134712 Medium.jpeg|400](/img/user/Files/IMG20240608134712%20Medium.jpeg)
+![image|400](https://blog-assets.eleni.co/e2e268aed796fc454c968ed803bb692f.jpeg)
 
 #### *The Chonkers*
 ℹ️ Bio: These used to be small, now they need to start paying rent.
 💧 Water: **1 cup**
 
-![IMG20240608134841 Medium.jpeg|400](/img/user/Files/IMG20240608134841%20Medium.jpeg)
+![image|400](https://blog-assets.eleni.co/1d2cc16d235ec216a861489be3799551.jpeg)
 
 #### *The Trio*
 ℹ️ Bio: One is a beauty. The others are chew toys, somehow insisting on clinging to life.
 💧 Water: **1 cup shared between all of them**
 
-![IMG20240608134848 Medium.jpeg](/img/user/Files/IMG20240608134848%20Medium.jpeg)
-![IMG20240608134905 Medium.jpeg](/img/user/Files/IMG20240608134905%20Medium.jpeg)![IMG20240608134853 Medium.jpeg](/img/user/Files/IMG20240608134853%20Medium.jpeg)
+![image|400](https://blog-assets.eleni.co/96c6a964dbb20fcce643aaeaa56b5af9.jpeg)
+
+![image|400](https://blog-assets.eleni.co/b53b93e30fff645da6520462a42a91d8.jpeg)
+
+![image|400](https://blog-assets.eleni.co/8c9d8f8a92d2e70a4f239fb68befa221.jpeg)
 
 ## Outdoor Plants
 
@@ -49,15 +50,16 @@ Especially the 🍋 **lemon tree**, cause it likes to be extra.
 ### How to measure water
 Use this bad boy:
 
-![IMG20240608135130 Medium.jpeg](/img/user/Files/IMG20240608135130%20Medium.jpeg)
+![image](https://blog-assets.eleni.co/75d7b7ec36382b7818602574526e6655.jpeg)
 
 ### Meet the ~~fockers~~ plants
 
 #### The Trees
 ℹ️ Bio: the reason why we can't invite people to sit outside.
 💧 Water: **1 watering can split between the 3 of them**
-![IMG20240608134931 Large.jpeg](/img/user/Files/IMG20240608134931%20Large.jpeg)
-![IMG20240608134912 Medium.png](/img/user/Files/IMG20240608134912%20Medium.png)
+![image](https://blog-assets.eleni.co/640f30e27faf7d3ca75a29b22ff5d9c5.jpeg)
+
+![image](https://blog-assets.eleni.co/e8911383c8d2889f53492a36aee0a327.png)
 
 #### The rest
 ℹ️ Bio: anything else intentionally or unintentionally growing on our balcony
