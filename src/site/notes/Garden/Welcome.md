@@ -16,16 +16,16 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
+- [[Garden/Pre-move clearance\|Pre-move clearance]]
 - [[Garden/Cat Care Guide\|Cat Care Guide]]
 - [[Garden/Plant Care Guide\|Plant Care Guide]]
 - [[Garden/Karvonen HR training zones\|Karvonen HR training zones]]
-- [[Garden/Manage S3 bucket with Cyberduck\|Manage S3 bucket with Cyberduck]]
-- [[Garden/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
+- [[Garden/obsidian-public-media/Upload the media to your S3 bucket\|Upload the media to your S3 bucket]]
+- [[Garden/obsidian-public-media/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
 - [[Garden/Top tags\|Top tags]]
-- [[Garden/Setup S3 bucket for use with Cloudfront\|Setup S3 bucket for use with Cloudfront]]
-- [[Garden/Hosting assets on S3 + Cloudfront\|Hosting assets on S3 + Cloudfront]]
+- [[Garden/obsidian-public-media/Setup S3 bucket for use with Cloudfront\|Setup S3 bucket for use with Cloudfront]]
+- [[Garden/Hosting Obsidian S3 media publicly\|Hosting Obsidian S3 media publicly]]
 - [[Garden/The Time-Travelling Islands\|The Time-Travelling Islands]]
-- [[Garden/Setup custom AWS CloudFront CNAME\|Setup custom AWS CloudFront CNAME]]
 
 { .block-language-dataview}
 
