@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/garden/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:40:18.302+02:00","updated":"2024-06-10T00:53:12.163+02:00"}
+{"dg-publish":true,"permalink":"/garden/cat-care-guide/","tags":["house-sitting"],"created":"2024-06-08T23:40:18.302+02:00","updated":"2024-08-09T13:28:48.846+02:00"}
 ---
 
 # Cat Care Guide
 Looking for the plants guide? See [[Garden/Plant Care Guide\|Plant Care Guide]]
 
 ## The monsters: Pinello  & Milo
-
-![IMG20240503234134 1.png|300](/img/user/Files/IMG20240503234134%201.png)![IMG20240524133347 1.png|300](/img/user/Files/IMG20240524133347%201.png)
+![image|300](https://blog-assets.eleni.co/a864c047e8ac83145f6e706c90decea8.png)![image|300](https://blog-assets.eleni.co/ca70f2563736408257a15e25d73ceb81.png)
 ## Food
 ### Schedule
 ☀️ **Morning:** 1 sachet of wet food each
@@ -15,12 +14,9 @@ Looking for the plants guide? See [[Garden/Plant Care Guide\|Plant Care Guide]]
 
 You can use the measuring cup for dry food.
 Milo is a big boy, so it's ok if he eats a bit more than Pinello in the evening. 
-
-![IMG20240609231103.jpg](/img/user/Files/IMG20240609231103.jpg)
-
+![image](https://blog-assets.eleni.co/64dacdf4195a18f611299d867907aa2d.jpg)
 ### Where?
-![IMG20240610003709.jpg](/img/user/Files/IMG20240610003709.jpg)
-
+![image](https://blog-assets.eleni.co/91396425b887dfc1fe4978cc6248325d.jpg)
 ### 🤢 Stench-prevention tips
  To avoid things getting super stinky in the summer,
 *  rinse the sachets with water before throwing away (garbage under the sink)
@@ -29,10 +25,8 @@ Milo is a big boy, so it's ok if he eats a bit more than Pinello in the evening.
 Feel free to give them some snacks, especially after play. We store these in the cupboard.
 * Pinello _loves_ the dried chicken hearts (he screams in joy when you take them out). You can cut these a bit smaller.
 * Milo loves sauce/soup. Some days you can put the soup in his wet food bowl. 
-
-![IMG20240610001154.jpg](/img/user/Files/IMG20240610001154.jpg)
-![IMG20240610001206.jpg|300](/img/user/Files/IMG20240610001206.jpg)![IMG20240610001229.jpg|300](/img/user/Files/IMG20240610001229.jpg)
-
+![image](https://blog-assets.eleni.co/7bf0fb0371abd04b6935fd7b321ffd79.jpg)
+![image|300](https://blog-assets.eleni.co/d9395351e912ef48130c2582d8ee2255.jpg)![image|300](https://blog-assets.eleni.co/e141fdbeb46e5762b7f48d70bb615700.jpg)
 ## Toilets
 There are 2 pretty big toilets, so **cleaning them once a day is ok**.
 ### Litter bin
@@ -46,19 +40,6 @@ Found behind the bathroom door.
 * To open: pull the top red handle (you probably want to do that over the garbage bin)
 * To close: push the top red handle back down, then close the bottom
 ## Medical
-
-### Milo's leg
-A moth made the unfortunate decision to fly into our flat one night at 3am.
-Milo, attempting to eat the intruder, cut his hind right leg.
-This should heal just fine, but here's a pic of how it was before we left for reference, in case there is some complication.
-![IMG20240608165017(1).png|400](/img/user/Files/IMG20240608165017(1).png)
-## Toys
-You can find toys all over the flat, and the bigger ones in storage.
-### Pinello vs Plastic
-Pinello is sometimes fussy with his food. But if you leave anything like a plastic bag or nylon string or worm-like toys around, he will try to swallow them. So best to put these toys back in storage.
-### Milo vs Headbands
-His favourite thing. Thankfully Pinello won't eat those.
-
 ### Vets
 👩‍⚕️ **Non-emergencies/regular hours**
 [Tierpraxis Sarah Watson](https://www.tierarzt-watson.de/english/)
@@ -72,3 +53,10 @@ Altenbraker Str. 29/Ecke Emser Str., 12051 (Neukölln)
 tel. `030 854 20 50`
 Kufsteiner Straße, 10825 (Schöneberg)
 In the unlikely case, Taxi is probably the fastest way to get there.
+## Toys
+You can find toys all over the flat, and the bigger ones in storage.
+### Pinello vs Plastic
+Pinello is sometimes fussy with his food. But if you leave anything like a plastic bag or nylon string or worm-like toys around, he will try to swallow them. So best to put these toys back in storage.
+### Milo vs Headbands
+His favourite thing. Thankfully Pinello won't eat those.
+
