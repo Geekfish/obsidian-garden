@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/plug-basic-auth-config-at-runtime/","created":"2025-06-01T10:53:11.542+01:00","updated":"2025-06-01T11:28:57.753+01:00"}
+{"dg-publish":true,"permalink":"/all-notes/plug-basic-auth-config-at-runtime/","tags":["elixir","phoenix","plug","dev"],"created":"2025-06-01T10:53:11.542+01:00","updated":"2025-06-01T11:32:43.234+01:00"}
 ---
 
 HTTP Basic Auth is one of the simplest way to restrict access to our app, without introducing a full-blown user authentication system.
