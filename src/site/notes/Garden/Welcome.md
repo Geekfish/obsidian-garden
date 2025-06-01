@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T15:32:39.719+00:00","updated":"2024-06-08T19:36:36.634+01:00"}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T15:32:39.719+00:00","updated":"2025-06-01T11:34:12.731+01:00"}
 ---
 
 # 👋 'ello!
 Thanks for stopping by 🙂
 I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome to my "digital garden"!
 ## Find me on
-[🤖 Github](https://github.com/Geekfish) |  [💼 LinkedIn](https://www.linkedin.com/in/%F0%9F%A4%96-eleni-lixourioti-07b88719/)
- [🐘 Mastodon](https://chaos.social/@eleni) | [🦃 Twitter/X (if you really have to)](https://twitter.com/geekfish_)
+[🤖 Github](https://github.com/Geekfish) |  [💼 LinkedIn](https://www.linkedin.com/in/%F0%9F%A4%96-eleni-lixourioti-07b88719/) | [🦋 Bluesky](https://bsky.app/profile/eleni.co)
  [🤳 Instagram](https://www.instagram.com/geekfish/) | [📷 Adobe Portfolio](https://photos.eleni.co)
 
 ...or by good old [email](mailto:eleni.co@eleni.mozmail.com)
