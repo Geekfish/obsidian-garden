@@ -15,7 +15,7 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
-- [[Garden/Plug.BasicAuth config at runtime\|Plug.BasicAuth config at runtime]]
+- [[Garden/Phoenix Plug.BasicAuth config at runtime\|Phoenix Plug.BasicAuth config at runtime]]
 - [[Garden/Karvonen HR training zones\|Karvonen HR training zones]]
 - [[Garden/obsidian-public-media/Upload the media to your S3 bucket\|Upload the media to your S3 bucket]]
 - [[Garden/obsidian-public-media/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
