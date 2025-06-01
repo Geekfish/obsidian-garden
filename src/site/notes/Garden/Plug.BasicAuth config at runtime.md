@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/plug-basic-auth-config-at-runtime/","tags":["elixir","phoenix","plug","dev"],"created":"2025-06-01T10:53:11.542+01:00","updated":"2025-06-01T11:32:43.234+01:00"}
+{"dg-publish":true,"permalink":"/garden/plug-basic-auth-config-at-runtime/","tags":["elixir","phoenix","plug","dev"],"created":"2025-06-01T10:53:11.542+01:00","updated":"2025-06-01T11:36:49.996+01:00"}
 ---
 
 HTTP Basic Auth is one of the simplest way to restrict access to our app, without introducing a full-blown user authentication system.
@@ -31,8 +31,7 @@ In fact, **when it comes to env variables and external config, [the elixir docs 
 
 How can we work around the plug requiring config during compile time?
 Let's create our own wrapper!
-```
-
+```elixir
 defmodule MyApp.Plugs.BasicAuth do
   @moduledoc """
   Simple wrapper for the built-in Plug.BasicAuth,
@@ -50,7 +49,7 @@ defmodule MyApp.Plugs.BasicAuth do
 end
 ```
 And now we can move our config to `runtime.exs`:
-```
+```elixir
 # config/runtime.exs
 config :my_app, :basic_auth,
   username: System.get_env("AUTH_USERNAME", "user")
