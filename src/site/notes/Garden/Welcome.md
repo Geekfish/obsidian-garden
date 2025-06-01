@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T16:32:39.719+01:00","updated":"2024-06-08T20:36:36.634+02:00"}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T15:32:39.719+00:00","updated":"2024-06-08T19:36:36.634+01:00"}
 ---
 
 # 👋 'ello!
@@ -16,9 +16,6 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
-- [[Garden/Pre-move clearance\|Pre-move clearance]]
-- [[Garden/Cat Care Guide\|Cat Care Guide]]
-- [[Garden/Plant Care Guide\|Plant Care Guide]]
 - [[Garden/Karvonen HR training zones\|Karvonen HR training zones]]
 - [[Garden/obsidian-public-media/Upload the media to your S3 bucket\|Upload the media to your S3 bucket]]
 - [[Garden/obsidian-public-media/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
@@ -26,6 +23,9 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 - [[Garden/obsidian-public-media/Setup S3 bucket for use with Cloudfront\|Setup S3 bucket for use with Cloudfront]]
 - [[Garden/Hosting Obsidian S3 media publicly\|Hosting Obsidian S3 media publicly]]
 - [[Garden/The Time-Travelling Islands\|The Time-Travelling Islands]]
+- [[Garden/obsidian-public-media/Setup custom AWS CloudFront CNAME\|Setup custom AWS CloudFront CNAME]]
+- [[Garden/GDPR on top of Django's model Collector\|GDPR on top of Django's model Collector]]
+- [[Garden/Django ORM - Order of query evaluation\|Django ORM - Order of query evaluation]]
 
 { .block-language-dataview}
 

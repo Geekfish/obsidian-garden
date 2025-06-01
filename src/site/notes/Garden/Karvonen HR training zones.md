@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/karvonen-hr-training-zones/","tags":["cycling","running","fitness"],"created":"2024-03-09T21:41:43.868+01:00","updated":"2024-03-10T01:00:02.789+01:00"}
+{"dg-publish":true,"permalink":"/garden/karvonen-hr-training-zones/","tags":["cycling","running","fitness"],"created":"2024-03-09T20:41:43.868+00:00","updated":"2024-03-10T00:00:02.789+00:00"}
 ---
 
 # Karvonen HR training zones

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/obsidian-public-media/upload-the-media-to-your-s3-bucket/","tags":["how-to","aws","obsidian"],"created":"2024-03-05T18:37:40.313+01:00","updated":"2024-08-09T14:12:12.290+02:00"}
+{"dg-publish":true,"permalink":"/garden/obsidian-public-media/upload-the-media-to-your-s3-bucket/","tags":["how-to","aws","obsidian"],"created":"2024-03-05T17:37:40.313+00:00","updated":"2024-08-09T13:12:12.290+01:00"}
 ---
 
 # Upload the media to your S3 bucket

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/microbit-project-2-snowflakes/","tags":["microbit","python","embedded"],"created":"2024-03-01T18:50:19.681+01:00","updated":"2024-03-03T15:50:43.006+01:00"}
+{"dg-publish":true,"permalink":"/garden/microbit-project-2-snowflakes/","tags":["microbit","python","embedded"],"created":"2024-03-01T17:50:19.681+00:00","updated":"2024-03-03T14:50:43.006+00:00"}
 ---
 
 # Project # 2: Snowflakes (almost)

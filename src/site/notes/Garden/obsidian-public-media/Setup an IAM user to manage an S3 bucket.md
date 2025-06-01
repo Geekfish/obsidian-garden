@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/obsidian-public-media/setup-an-iam-user-to-manage-an-s3-bucket/","tags":["aws","how-to"],"created":"2024-03-05T18:07:23.783+01:00","updated":"2024-08-09T14:05:56.285+02:00"}
+{"dg-publish":true,"permalink":"/garden/obsidian-public-media/setup-an-iam-user-to-manage-an-s3-bucket/","tags":["aws","how-to"],"created":"2024-03-05T17:07:23.783+00:00","updated":"2024-08-09T13:05:56.285+01:00"}
 ---
 
 # Setup an IAM user to manage an S3 bucket

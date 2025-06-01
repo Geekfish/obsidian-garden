@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/a-week-with-micro-bit/","tags":["python","embedded","microbit"],"created":"2024-03-01T17:13:50.534+01:00","updated":"2024-03-03T11:41:50.188+01:00"}
+{"dg-publish":true,"permalink":"/garden/a-week-with-micro-bit/","tags":["python","embedded","microbit"],"created":"2024-03-01T16:13:50.534+00:00","updated":"2024-03-03T10:41:50.188+00:00"}
 ---
 
 # A week with the BBC micro:bit

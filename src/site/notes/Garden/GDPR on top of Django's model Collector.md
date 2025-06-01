@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/gdpr-on-top-of-django-s-model-collector/","tags":["python","django","gdpr","outdated","how-to"],"created":"2024-03-03T11:42:31.050+01:00","updated":"2024-03-05T13:16:52.390+01:00"}
+{"dg-publish":true,"permalink":"/garden/gdpr-on-top-of-django-s-model-collector/","tags":["python","django","gdpr","outdated","how-to"],"created":"2024-03-03T10:42:31.050+00:00","updated":"2024-03-05T12:16:52.390+00:00"}
 ---
 
 
