@@ -15,6 +15,7 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
+- [[Garden/Plug.BasicAuth config at runtime\|Plug.BasicAuth config at runtime]]
 - [[Garden/Karvonen HR training zones\|Karvonen HR training zones]]
 - [[Garden/obsidian-public-media/Upload the media to your S3 bucket\|Upload the media to your S3 bucket]]
 - [[Garden/obsidian-public-media/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
@@ -24,7 +25,6 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 - [[Garden/The Time-Travelling Islands\|The Time-Travelling Islands]]
 - [[Garden/obsidian-public-media/Setup custom AWS CloudFront CNAME\|Setup custom AWS CloudFront CNAME]]
 - [[Garden/GDPR on top of Django's model Collector\|GDPR on top of Django's model Collector]]
-- [[Garden/Django ORM - Order of query evaluation\|Django ORM - Order of query evaluation]]
 
 { .block-language-dataview}
 

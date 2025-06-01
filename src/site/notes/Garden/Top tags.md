@@ -3,17 +3,17 @@
 ---
 
 # Top tags
-| Topic      | Count |
-| ---------- | ----- |
-| #how-to    | 9     |
-| #python    | 7     |
-| #aws       | 5     |
-| #embedded  | 5     |
-| #microbit  | 5     |
-| #django    | 2     |
-| #outdated  | 2     |
-| #cycling   | 1     |
-| #fallacies | 1     |
-| #fitness   | 1     |
+| Topic     | Count |
+| --------- | ----- |
+| #how-to   | 9     |
+| #python   | 7     |
+| #aws      | 5     |
+| #embedded | 5     |
+| #microbit | 5     |
+| #django   | 2     |
+| #outdated | 2     |
+| #cycling  | 1     |
+| #dev      | 1     |
+| #elixir   | 1     |
 
 { .block-language-dataview}
