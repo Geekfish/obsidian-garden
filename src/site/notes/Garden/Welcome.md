@@ -15,6 +15,7 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
+- [[Garden/Needle Alignment Tip - Singer Quantum Stylist 9960\|Needle Alignment Tip - Singer Quantum Stylist 9960]]
 - [[Garden/Phoenix Plug.BasicAuth config at runtime\|Phoenix Plug.BasicAuth config at runtime]]
 - [[Garden/Karvonen HR training zones\|Karvonen HR training zones]]
 - [[Garden/obsidian-public-media/Upload the media to your S3 bucket\|Upload the media to your S3 bucket]]
@@ -24,7 +25,6 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 - [[Garden/Hosting Obsidian S3 media publicly\|Hosting Obsidian S3 media publicly]]
 - [[Garden/The Time-Travelling Islands\|The Time-Travelling Islands]]
 - [[Garden/obsidian-public-media/Setup custom AWS CloudFront CNAME\|Setup custom AWS CloudFront CNAME]]
-- [[Garden/GDPR on top of Django's model Collector\|GDPR on top of Django's model Collector]]
 
 { .block-language-dataview}
 
