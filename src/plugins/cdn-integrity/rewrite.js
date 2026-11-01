@@ -26,7 +26,9 @@ function isExternal(url) {
 }
 
 function rewriteTag(tag, urlName, url, pin) {
-  const pinned = tag.replace(attribute(tag, urlName).raw, ` ${urlName}="${pin.url || url}"`);
+  const oldHash = attribute(tag, "integrity");
+  const unhashed = oldHash ? tag.replace(oldHash.raw, "") : tag;
+  const pinned = unhashed.replace(attribute(unhashed, urlName).raw, ` ${urlName}="${pin.url}"`);
   const extra = ` integrity="${pin.integrity}"${attribute(tag, "crossorigin") ? "" : ' crossorigin="anonymous"'}`;
   return pinned.replace(/\s*\/?>$/, (end) => `${extra}${end}`);
 }

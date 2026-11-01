@@ -1,6 +1,7 @@
-// Downloads the self-hosted files and writes the SRI hashes into pins.json.
-// Run it after you change a URL in pins.json. Review the diff before you commit,
-// because a hash that changes for the same URL means that the CDN file changed.
+// Applies the versions in package.json: writes the URLs and SRI hashes into
+// pins.json and downloads the self-hosted files. Review the diff before you
+// commit, because a hash that changes for the same URL means that the CDN file
+// changed.
 import { execFileSync } from "node:child_process";
 import { createHash } from "node:crypto";
 import fs from "node:fs";
@@ -9,8 +10,8 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = path.dirname(fileURLToPath(import.meta.url));
-const MERMAID = "mermaid@11.17.2";
-const D3_ROOTS = ["d3-force@3.0.0", "d3-selection@3.0.0", "d3-zoom@3.0.0", "d3-drag@3.0.0"];
+const versions = JSON.parse(fs.readFileSync(path.join(root, "package.json"), "utf8")).dependencies;
+const d3Names = Object.keys(versions).filter((name) => name.startsWith("d3-"));
 
 async function download(url) {
   const response = await fetch(url);
@@ -20,8 +21,12 @@ async function download(url) {
 
 async function updateHashes(pinsPath) {
   const pins = JSON.parse(fs.readFileSync(pinsPath, "utf8"));
-  for (const [url, pin] of Object.entries(pins.tags)) {
-    const hash = createHash("sha384").update(await download(pin.url || url)).digest("base64");
+  for (const pin of Object.values(pins.tags)) {
+    const version = versions[pin.package];
+    pin.url = pin.cdnjs
+      ? `https://cdnjs.cloudflare.com/ajax/libs/${pin.cdnjs}/${version}/${pin.file}`
+      : `https://cdn.jsdelivr.net/npm/${pin.package}@${version}/${pin.file}`;
+    const hash = createHash("sha384").update(await download(pin.url)).digest("base64");
     pin.integrity = `sha384-${hash}`;
   }
   fs.writeFileSync(pinsPath, `${JSON.stringify(pins, null, 2)}\n`);
@@ -34,7 +39,7 @@ async function vendorD3(outDir) {
   fs.mkdirSync(outDir, { recursive: true });
   const seen = new Set();
   const licences = [];
-  const queue = [...D3_ROOTS];
+  const queue = d3Names.map((name) => `${name}@${versions[name]}`);
   while (queue.length > 0) {
     const pkg = queue.pop();
     if (seen.has(pkg)) continue;
@@ -54,7 +59,7 @@ async function vendorD3(outDir) {
 
 function vendorMermaid(outDir) {
   const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "cdn-integrity-"));
-  const name = execFileSync("npm", ["pack", MERMAID, "--silent"], { cwd: tmp, encoding: "utf8" }).trim();
+  const name = execFileSync("npm", ["pack", `mermaid@${versions.mermaid}`, "--silent"], { cwd: tmp, encoding: "utf8" }).trim();
   execFileSync("tar", ["-xzf", name], { cwd: tmp });
   const pkg = path.join(tmp, "package");
   fs.rmSync(outDir, { recursive: true, force: true });
@@ -71,3 +76,6 @@ function vendorMermaid(outDir) {
 await updateHashes(path.join(root, "pins.json"));
 await vendorD3(path.join(root, "vendor/d3"));
 vendorMermaid(path.join(root, "vendor/mermaid"));
+
+const vendored = Object.fromEntries(["mermaid", ...d3Names].sort().map((name) => [name, versions[name]]));
+fs.writeFileSync(path.join(root, "vendor/versions.json"), `${JSON.stringify(vendored, null, 2)}\n`);

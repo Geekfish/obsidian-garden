@@ -9,24 +9,26 @@ This plugin protects the site from changed third-party scripts. The template loa
 
 ## If the build fails with "not in pins.json"
 
-A template update or a note added a script. A failed build stops the deployment.
+A template update or a note added or changed a script. A failed build stops the deployment.
 
 1. Read the script and decide whether to trust it.
-2. Add the URL to `tags` in `pins.json`. For an exact version, use `{}`. If the template URL has no exact version, add a `url`.
-3. Run `node src/plugins/cdn-integrity/update-pins.mjs`.
-4. Commit the changes.
+2. Add the URL to `tags` in `pins.json`, with its `package` and `file`. If the file is on cdnjs, also add `cdnjs`.
+3. Add the package to `package.json` in this folder, if it is not there.
+4. Run `node src/plugins/cdn-integrity/update-pins.mjs`.
+5. Commit the changes.
 
-## Update a self-hosted version
+## If the build fails with "Run update-pins.mjs"
 
-1. Change `MERMAID` or `D3_ROOTS` in `update-pins.mjs`.
+The versions in `package.json` in this folder are the source of truth. Dependabot changes only that file and its lockfile, so its PRs fail the preview build until you do these steps:
+
+1. Check out the PR branch.
 2. Run `node src/plugins/cdn-integrity/update-pins.mjs`.
-3. Build the site and test a Mermaid diagram and the graph in a browser.
-
-Dependabot does not see these files, so check for new versions by hand.
+3. Build the site and test the graph, code blocks, search and a Mermaid diagram in a browser.
+4. Commit the changes to the PR branch.
 
 ## Test
 
-Run `node --test src/plugins/cdn-integrity/rewrite.test.js`. The `npm test` command skips plugins that do not start with `dg-`.
+Run `node --test src/plugins/cdn-integrity/rewrite.test.js src/plugins/cdn-integrity/versions.test.js`. The `npm test` command skips plugins that do not start with `dg-`.
 
 ## Known gaps
 

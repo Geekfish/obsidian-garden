@@ -5,7 +5,8 @@ const { rewriteHtml } = require("./rewrite.js");
 const pins = {
   tags: {
     "https://cdn.test/a@latest": { url: "https://cdn.test/a@1.0.0/a.js", integrity: "sha384-a" },
-    "https://cdn.test/b@1.0.0/b.js": { integrity: "sha384-b" },
+    "https://cdn.test/b@1.0.0/b.js": { url: "https://cdn.test/b@1.0.0/b.js", integrity: "sha384-b" },
+    "https://cdn.test/c@1.0.0/c.css": { url: "https://cdn.test/c@2.0.0/c.css", integrity: "sha384-new" },
   },
   modules: { "https://cdn.test/m@1/m.mjs": "/vendor/m.mjs" },
   allowed: { "https://host.test/client.js": "no versioned file" },
@@ -23,6 +24,13 @@ test("trims spaces in the URL and keeps an existing crossorigin", () => {
   assert.equal(
     rewrite('<script src=" https://cdn.test/b@1.0.0/b.js " crossorigin="anonymous"></script>'),
     '<script src="https://cdn.test/b@1.0.0/b.js" crossorigin="anonymous" integrity="sha384-b"></script>',
+  );
+});
+
+test("replaces the version and hash of a tag that already has SRI", () => {
+  assert.equal(
+    rewrite('<link rel="stylesheet" href="https://cdn.test/c@1.0.0/c.css" integrity="sha512-old" crossorigin="anonymous" />'),
+    '<link rel="stylesheet" href="https://cdn.test/c@2.0.0/c.css" crossorigin="anonymous" integrity="sha384-new" />',
   );
 });
 
