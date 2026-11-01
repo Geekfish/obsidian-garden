@@ -15,16 +15,16 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 { .block-language-dataview}
 ## Recently added
+- [[Garden/Photos/Athens - Piraeus Winter 2024\|Athens - Piraeus Winter 2024]]
+- [[Garden/Photos/Berlin 2024\|Berlin 2024]]
+- [[Garden/Photos/Namibia 2023\|Namibia 2023]]
+- [[Garden/Photos/Northern Greece 2025\|Northern Greece 2025]]
+- [[Garden/Photos/Photos\|Photos]]
+- [[Garden/Photos/Reflections\|Reflections]]
+- [[Garden/Photos/Róisín Murphy - Verti Music Hall 2024\|Róisín Murphy - Verti Music Hall 2024]]
 - [[Garden/Needle Alignment Tip - Singer Quantum Stylist 9960\|Needle Alignment Tip - Singer Quantum Stylist 9960]]
 - [[Garden/Phoenix Plug.BasicAuth config at runtime\|Phoenix Plug.BasicAuth config at runtime]]
 - [[Garden/Karvonen HR training zones\|Karvonen HR training zones]]
-- [[Garden/obsidian-public-media/Upload the media to your S3 bucket\|Upload the media to your S3 bucket]]
-- [[Garden/obsidian-public-media/Setup an IAM user to manage an S3 bucket\|Setup an IAM user to manage an S3 bucket]]
-- [[Garden/Top tags\|Top tags]]
-- [[Garden/obsidian-public-media/Setup S3 bucket for use with Cloudfront\|Setup S3 bucket for use with Cloudfront]]
-- [[Garden/Hosting Obsidian S3 media publicly\|Hosting Obsidian S3 media publicly]]
-- [[Garden/The Time-Travelling Islands\|The Time-Travelling Islands]]
-- [[Garden/obsidian-public-media/Setup custom AWS CloudFront CNAME\|Setup custom AWS CloudFront CNAME]]
 
 { .block-language-dataview}
 
