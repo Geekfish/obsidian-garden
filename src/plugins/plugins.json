@@ -21,7 +21,7 @@
         "category": "Announcements",
         "categoryId": "DIC_kwDOVfNjrc4DKJ-X",
         "theme": "noborder_light",
-        "showByDefault": false
+        "showByDefault": true
       }
     }
   }
