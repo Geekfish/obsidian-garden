@@ -15,20 +15,20 @@
     "https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js": {
       "package": "@alpinejs/persist",
       "file": "dist/cdn.min.js",
-      "url": "https://cdn.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js",
-      "integrity": "sha384-Wv0QLHfgUB1Q7/u7Qce+9HY0wXwJyDpRonSAqPviFBnBHZ0K7RaQcXCIZx1P9HJ4"
+      "url": "https://cdn.jsdelivr.net/npm/@alpinejs/persist@3.17.5/dist/cdn.min.js",
+      "integrity": "sha384-wQUPtgVWygGHRobHJvRb7RggcyyXvTpDpB2OwTm2IycjV37YIv9UzhpzQqWwvPzz"
     },
     "https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js": {
       "package": "alpinejs",
       "file": "dist/cdn.min.js",
-      "url": "https://cdn.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js",
-      "integrity": "sha384-D0U8hqw9ySktLounY2q1PAWeijVsqewBtT2NhQp2pxSugkKfpRnovV2sSwJC+V5U"
+      "url": "https://cdn.jsdelivr.net/npm/alpinejs@3.17.5/dist/cdn.min.js",
+      "integrity": "sha384-FYLKjwG3aohNhNZoVG8sY/5ntunm+MqylL90Q+rT3OM7AwV9/BKFjk/RjoIpIgsI"
     },
     "https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js": {
       "package": "whatwg-fetch",
-      "file": "dist/fetch.umd.min.js",
-      "url": "https://cdn.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js",
-      "integrity": "sha384-DywxpW9DJWH6OTozdv32ubPZwIxc4jkAD60s3l21vwPQlnWB2XCNfC6BaqQDPwiU"
+      "file": "dist/fetch.umd.js",
+      "url": "https://cdn.jsdelivr.net/npm/whatwg-fetch@3.6.20/dist/fetch.umd.js",
+      "integrity": "sha384-FZfuBsuAjI9UNebVBfTz66wpG9ZPM5g9J+OsgIvNT2hSPuDxWi4JHpEMdagsoujK"
     },
     "https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js": {
       "package": "flexsearch",
@@ -39,8 +39,8 @@
     "https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js": {
       "package": "luxon",
       "file": "build/global/luxon.min.js",
-      "url": "https://cdn.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js",
-      "integrity": "sha384-LRi3+K3lNNdScRkaysNXlxWl3J40YweiUeQs09keWHXlJEUo9HN8VpQ1Xm7YeQ8m"
+      "url": "https://cdn.jsdelivr.net/npm/luxon@3.7.2/build/global/luxon.min.js",
+      "integrity": "sha384-MPG/j0tMZel8D/wdSK2M2n+fUXFQ6lHE3r5wnJZ25xVC8KKtBOvT9BGMOmLfSxGT"
     },
     "https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js": {
       "package": "prismjs",

@@ -7,7 +7,7 @@
  * that nobody reviewed.
  */
 const SCRIPT_OR_LINK = /<(script|link)\b[^>]*>/gi;
-const INLINE_SCRIPT = /<script\b([^>]*)>([\s\S]*?)<\/script>/gi;
+const INLINE_SCRIPT = /<script\b([^>]*)>([\s\S]*?)<\/script\b[^>]*>/gi;
 const MODULE_IMPORT = /(?:\bfrom\s*|\bimport\s*\(?\s*)["'`]((?:https?:)?\/\/[^"'`]+)/g;
 const IMPORT_MAP_URL = /"((?:https?:)?\/\/[^"]+)"/g;
 const LOADS_CODE = new Set(["stylesheet", "modulepreload", "preload"]);
