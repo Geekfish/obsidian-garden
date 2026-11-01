@@ -1,0 +1,9 @@
+{
+  "id": "cdn-integrity",
+  "name": "CDN Integrity",
+  "version": "1.0.0",
+  "description": "Pins third-party scripts, adds SRI hashes and fails the build on unreviewed scripts.",
+  "author": "Eleni Lixourioti",
+  "hooks": "index.js",
+  "assets": ["vendor/"]
+}

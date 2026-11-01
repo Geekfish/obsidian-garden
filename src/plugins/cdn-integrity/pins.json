@@ -1,0 +1,36 @@
+{
+  "tags": {
+    "https://unpkg.com/lucide@latest": {
+      "url": "https://cdn.jsdelivr.net/npm/lucide@1.66.0/dist/umd/lucide.min.js",
+      "integrity": "sha384-Z6lHbMYcsXeWgvgnOFekAhjBtVQuTfjyNBGb7d7mrYjt5DNJspJJ9GBp9Kar/z7w"
+    },
+    "https://cdn.jsdelivr.net/npm/pixi.js@7.4.2/dist/pixi.min.js": {
+      "integrity": "sha384-9oZ4NtPN/IdabMfsgMnEAm+FTH+xpnGN/C33Kz3OdcRyh9aaO2N6PuIONCebF1jh"
+    },
+    "https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js": {
+      "integrity": "sha384-Wv0QLHfgUB1Q7/u7Qce+9HY0wXwJyDpRonSAqPviFBnBHZ0K7RaQcXCIZx1P9HJ4"
+    },
+    "https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js": {
+      "integrity": "sha384-D0U8hqw9ySktLounY2q1PAWeijVsqewBtT2NhQp2pxSugkKfpRnovV2sSwJC+V5U"
+    },
+    "https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js": {
+      "integrity": "sha384-DywxpW9DJWH6OTozdv32ubPZwIxc4jkAD60s3l21vwPQlnWB2XCNfC6BaqQDPwiU"
+    },
+    "https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js": {
+      "integrity": "sha384-ZflVYmoWn2YFWaz5Cw6NjprAqYTmiAy9XLVm29qbq7WCC2GzO1RjWvQZ9YIlJm+m"
+    },
+    "https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js": {
+      "integrity": "sha384-LRi3+K3lNNdScRkaysNXlxWl3J40YweiUeQs09keWHXlJEUo9HN8VpQ1Xm7YeQ8m"
+    }
+  },
+  "modules": {
+    "https://cdn.jsdelivr.net/npm/d3-force@3.0.0/+esm": "/plugins/cdn-integrity/vendor/d3/d3-force.js",
+    "https://cdn.jsdelivr.net/npm/d3-selection@3.0.0/+esm": "/plugins/cdn-integrity/vendor/d3/d3-selection.js",
+    "https://cdn.jsdelivr.net/npm/d3-zoom@3.0.0/+esm": "/plugins/cdn-integrity/vendor/d3/d3-zoom.js",
+    "https://cdn.jsdelivr.net/npm/d3-drag@3.0.0/+esm": "/plugins/cdn-integrity/vendor/d3/d3-drag.js",
+    "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs": "/plugins/cdn-integrity/vendor/mermaid/mermaid.esm.min.mjs"
+  },
+  "allowed": {
+    "https://giscus.app/client.js": "giscus publishes no versioned file, so SRI would break on each giscus release."
+  }
+}
