@@ -9,7 +9,7 @@
     "d3-force": "3.0.0",
     "d3-selection": "3.0.0",
     "d3-zoom": "3.0.0",
-    "flexsearch": "0.7.21",
+    "flexsearch": "0.7.43",
     "lucide": "1.66.0",
     "luxon": "3.7.2",
     "mermaid": "11.17.2",
