@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T15:32:39.719+00:00","updated":"2026-11-01T19:12:06.132+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T15:32:39.719+00:00","updated":"2026-11-01T19:32:37.283+00:00","dg-note-properties":{}}
 ---
 
 # 👋 'ello!
 Thanks for stopping by 🙂
 I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome to my "digital garden"!
-## Find me on
-[🤖 Github](https://github.com/Geekfish) |  [💼 LinkedIn](https://www.linkedin.com/in/%F0%9F%A4%96-eleni-lixourioti-07b88719/) | [🦋 Bluesky](https://bsky.app/profile/eleni.co) | [🤳 Instagram](https://www.instagram.com/geekfish/) | 🏗️ [MakerWorld](https://makerworld.com/en/@CraftyMagpie)
-
-...or by good old [email](mailto:eleni.co@eleni.mozmail.com)
 ## Pinned
 - [[Contact Me\|Contact Me]]
 - [[Photos/Photos\|Photos]]
