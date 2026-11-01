@@ -4,7 +4,104 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "routes": [
-        { "handle": "filesystem" },
-        { "src": "/(.*)", "status": 404, "dest": "/404" }
-      ]
+        {
+            "src": "/reflections/?",
+            "has": [
+                {
+                    "type": "host",
+                    "value": "photos.eleni.co"
+                }
+            ],
+            "status": 308,
+            "headers": {
+                "Location": "https://blog.eleni.co/photos/reflections/"
+            }
+        },
+        {
+            "src": "/northern-greece-2025/?",
+            "has": [
+                {
+                    "type": "host",
+                    "value": "photos.eleni.co"
+                }
+            ],
+            "status": 308,
+            "headers": {
+                "Location": "https://blog.eleni.co/photos/northern-greece/"
+            }
+        },
+        {
+            "src": "/roisin-murphy-verti-music-hall-2024/?",
+            "has": [
+                {
+                    "type": "host",
+                    "value": "photos.eleni.co"
+                }
+            ],
+            "status": 308,
+            "headers": {
+                "Location": "https://blog.eleni.co/photos/roisin-murphy-verti-music-hall/"
+            }
+        },
+        {
+            "src": "/berlin-winter-2024/?",
+            "has": [
+                {
+                    "type": "host",
+                    "value": "photos.eleni.co"
+                }
+            ],
+            "status": 308,
+            "headers": {
+                "Location": "https://blog.eleni.co/photos/berlin/"
+            }
+        },
+        {
+            "src": "/greece/?",
+            "has": [
+                {
+                    "type": "host",
+                    "value": "photos.eleni.co"
+                }
+            ],
+            "status": 308,
+            "headers": {
+                "Location": "https://blog.eleni.co/photos/athens-piraeus/"
+            }
+        },
+        {
+            "src": "/namibia/?",
+            "has": [
+                {
+                    "type": "host",
+                    "value": "photos.eleni.co"
+                }
+            ],
+            "status": 308,
+            "headers": {
+                "Location": "https://blog.eleni.co/photos/namibia/"
+            }
+        },
+        {
+            "src": "/.*",
+            "has": [
+                {
+                    "type": "host",
+                    "value": "photos.eleni.co"
+                }
+            ],
+            "status": 308,
+            "headers": {
+                "Location": "https://blog.eleni.co/photos/"
+            }
+        },
+        {
+            "handle": "filesystem"
+        },
+        {
+            "src": "/(.*)",
+            "status": 404,
+            "dest": "/404"
+        }
+    ]
 }
