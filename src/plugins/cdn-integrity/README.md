@@ -12,7 +12,7 @@ This plugin protects the site from changed third-party scripts. The template loa
 A template update or a note added or changed a script. A failed build stops the deployment.
 
 1. Read the script and decide whether to trust it.
-2. Add the URL to `tags` in `pins.json`, with its `package` and `file`. If the file is on cdnjs, also add `cdnjs`.
+2. Add the URL to `tags` in `pins.json`, with its `package` and `file`. If the file is on cdnjs, also add `cdnjs`. Use a file that the npm package ships, because `update-pins.mjs` rejects files that the CDN generates.
 3. Add the package to `package.json` in this folder, if it is not there.
 4. Run `node src/plugins/cdn-integrity/update-pins.mjs`.
 5. Commit the changes.

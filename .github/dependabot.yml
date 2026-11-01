@@ -7,6 +7,9 @@ version: 2
 updates:
   - package-ecosystem: "npm" # See documentation for possible values
     directory: "/" # Location of package manifests
+    # A template update replaces the root manifests, so version PRs here do not
+    # last. Security alerts still appear.
+    open-pull-requests-limit: 0
     schedule:
       interval: "weekly"
     ignore:
@@ -24,6 +27,9 @@ updates:
       # Security alerts for Mermaid still appear.
       - dependency-name: "mermaid"
         update-types: ["version-update:semver-major"]
+      # FlexSearch 0.8 is labelled minor, but 0.x releases can break the API.
+      - dependency-name: "flexsearch"
+        versions: [">=0.8.0"]
     groups:
       browser-libraries:
         update-types:

