@@ -11,3 +11,55 @@ body {
     //   color: black;
     //  }
 }
+
+// Contact page: each list item is a card, and the whole card is the link.
+main.contact-page ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+    gap: 0.75rem;
+    margin: 1.5rem 0 0;
+    padding: 0;
+    // The theme indents list blocks with its own rule, which wins otherwise.
+    padding-inline-start: 0 !important;
+    margin-inline-start: 0 !important;
+    list-style: none;
+}
+
+main.contact-page li {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    margin: 0;
+    margin-inline-start: 0;
+    padding: 0.9rem 1rem;
+    overflow-wrap: anywhere;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 8px;
+}
+
+.contact-page li::before,
+.contact-page li::marker {
+    display: none;
+    content: none;
+}
+
+.contact-page li:hover {
+    border-color: var(--interactive-accent);
+}
+
+.contact-page li a {
+    font-size: 1.1em;
+    font-weight: 600;
+    text-decoration: none;
+    background-image: none;
+}
+
+.contact-page li a::after {
+    position: absolute;
+    inset: 0;
+    content: "";
+}
