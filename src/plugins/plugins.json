@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "plugins": {
+    "dg-search": {
+      "enabled": false
+    }
+  }
+}
