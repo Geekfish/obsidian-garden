@@ -13,3 +13,19 @@ updates:
       - dependency-name: "@sindresorhus/slugify"
         # For slugify, ignore all updates.
         
+  # Browser libraries for the cdn-integrity plugin. Major versions stay in
+  # separate PRs because each one needs its own browser test.
+  - package-ecosystem: "npm"
+    directory: "/src/plugins/cdn-integrity"
+    schedule:
+      interval: "weekly"
+    ignore:
+      # No note uses diagrams, so a major update is not worth a browser test.
+      # Security alerts for Mermaid still appear.
+      - dependency-name: "mermaid"
+        update-types: ["version-update:semver-major"]
+    groups:
+      browser-libraries:
+        update-types:
+          - "minor"
+          - "patch"

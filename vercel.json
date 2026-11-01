@@ -5,6 +5,13 @@
     "devCommand": "npm run start",
     "routes": [
         {
+            "src": "/.*",
+            "headers": {
+                "Content-Security-Policy-Report-Only": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://giscus.app; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://giscus.app; img-src 'self' data: blob: https: http:; font-src 'self' data:; connect-src 'self'; frame-src https://giscus.app; object-src 'none'; base-uri 'self'; form-action 'self'"
+            },
+            "continue": true
+        },
+        {
             "src": "/reflections/?",
             "has": [
                 {
