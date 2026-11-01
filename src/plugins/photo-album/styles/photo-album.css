@@ -1,0 +1,61 @@
+/* Album notes hold one image per line, which renders as one paragraph. */
+.photo-album p:has(> img) {
+  columns: 3 16rem;
+  column-gap: 0.75rem;
+}
+
+.photo-album p:has(> img) br {
+  display: none;
+}
+
+.photo-album p > img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 0 0.75rem;
+  cursor: zoom-in;
+  break-inside: avoid;
+}
+
+.photo-index-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: 1rem;
+}
+
+.photo-index-card {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.photo-index-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.photo-index-card span {
+  display: block;
+  padding-top: 0.4rem;
+}
+
+.photo-lightbox {
+  max-width: 96vw;
+  max-height: 96vh;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+.photo-lightbox::backdrop {
+  background: rgb(0 0 0 / 0.85);
+}
+
+.photo-lightbox img {
+  display: block;
+  max-width: 96vw;
+  max-height: 96vh;
+  cursor: zoom-out;
+}
