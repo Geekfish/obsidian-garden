@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photos","permalink":"/photos/","contentClasses":"photo-index","created":"2026-11-01T17:48:05.564+00:00","updated":"2026-11-01T17:48:19.843+00:00","dg-note-properties":{"comments":false}}
+{"dg-publish":true,"dg-permalink":"photos","permalink":"/photos/","title":"All Albums","pinned":true,"contentClasses":"photo-index","created":"2026-11-01T17:48:05.564+00:00","updated":"2026-11-01T18:19:09.748+00:00","dg-note-properties":{"title":"All Albums","comments":false}}
 ---
 
 
