@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/meet-mei-xiu/","tags":["python","embedded","microbit"],"created":"2024-03-01T17:37:09.032+00:00","updated":"2024-03-03T10:41:01.061+00:00"}
+{"dg-publish":true,"permalink":"/garden/meet-mei-xiu/","tags":["python","embedded","microbit"],"created":"2024-03-01T17:37:09.032+00:00","updated":"2024-03-03T10:41:01.061+00:00","dg-note-properties":{"tags":["python","embedded","microbit"]}}
 ---
 
 # Meet Mei-Xiu

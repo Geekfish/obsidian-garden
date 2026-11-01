@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/obsidian-public-media/setup-s3-bucket-for-use-with-cloudfront/","tags":["aws","how-to"],"created":"2024-03-05T13:56:41.817+00:00","updated":"2024-08-09T13:05:56.280+01:00"}
+{"dg-publish":true,"permalink":"/garden/obsidian-public-media/setup-s3-bucket-for-use-with-cloudfront/","tags":["aws","how-to"],"created":"2024-03-05T13:56:41.817+00:00","updated":"2024-08-09T13:05:56.280+01:00","dg-note-properties":{"tags":["aws","how-to"]}}
 ---
 
 # Setup S3 bucket for use with Cloudfront

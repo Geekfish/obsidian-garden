@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/phoenix-plug-basic-auth-config-at-runtime/","tags":["elixir","phoenix","plug","dev"],"created":"2025-06-01T10:53:11.542+01:00","updated":"2025-06-01T17:02:09.459+01:00"}
+{"dg-publish":true,"permalink":"/garden/phoenix-plug-basic-auth-config-at-runtime/","tags":["elixir","phoenix","plug","dev"],"created":"2025-06-01T10:53:11.542+01:00","updated":"2025-06-01T17:02:09.459+01:00","dg-note-properties":{"tags":["elixir","phoenix","plug","dev"]}}
 ---
 
 # Phoenix Plug.BasicAuth config at runtime

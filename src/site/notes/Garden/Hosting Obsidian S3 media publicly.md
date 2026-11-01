@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/hosting-obsidian-s3-media-publicly/","tags":["how-to","aws"],"created":"2024-03-05T13:48:26.787+00:00","updated":"2024-08-09T13:06:35.032+01:00"}
+{"dg-publish":true,"permalink":"/garden/hosting-obsidian-s3-media-publicly/","tags":["how-to","aws"],"created":"2024-03-05T13:48:26.787+00:00","updated":"2024-08-09T13:06:35.032+01:00","dg-note-properties":{"tags":["how-to","aws"]}}
 ---
 
 # Hosting Obsidian on media publicly

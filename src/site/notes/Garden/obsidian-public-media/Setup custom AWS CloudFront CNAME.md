@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/obsidian-public-media/setup-custom-aws-cloud-front-cname/","tags":["aws","how-to"],"created":"2024-03-03T13:24:35.592+00:00","updated":"2024-08-09T13:05:56.299+01:00"}
+{"dg-publish":true,"permalink":"/garden/obsidian-public-media/setup-custom-aws-cloud-front-cname/","tags":["aws","how-to"],"created":"2024-03-03T13:24:35.592+00:00","updated":"2024-08-09T13:05:56.299+01:00","dg-note-properties":{"tags":["aws","how-to"]}}
 ---
 
 # Setup custom AWS CloudFront CNAME

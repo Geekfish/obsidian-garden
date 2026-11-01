@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T15:32:39.719+00:00","updated":"2025-06-01T11:34:12.731+01:00"}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T15:32:39.719+00:00","updated":"2025-06-01T11:34:12.731+01:00","dg-note-properties":{}}
 ---
 
 # 👋 'ello!
