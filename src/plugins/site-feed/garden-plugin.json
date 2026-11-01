@@ -1,0 +1,22 @@
+{
+  "id": "site-feed",
+  "name": "Site Feed",
+  "version": "1.0.0",
+  "description": "Replaces the core Atom feed with a valid, newest-first feed, and makes it discoverable.",
+  "author": "Eleni Lixourioti",
+  "hooks": "index.js",
+  "styles": ["styles/site-feed.css"],
+  "slots": {
+    "common.head": "templates/head.njk",
+    "common.footer": "templates/footer.njk"
+  },
+  "settings": [
+    {
+      "key": "authorName",
+      "name": "Author name",
+      "description": "Feed author, which the Atom standard requires. Falls back to the site name.",
+      "type": "text",
+      "default": ""
+    }
+  ]
+}

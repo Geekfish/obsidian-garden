@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/top-tags/","tags":["metadata"],"created":"2024-03-05T15:30:07.245+00:00","updated":"2024-03-05T15:30:33.743+00:00","dg-note-properties":{"tags":["metadata"]}}
+{"dg-publish":true,"permalink":"/garden/top-tags/","tags":["metadata"],"created":"2024-03-05T15:30:07.245+00:00","updated":"2024-03-05T15:30:33.743+00:00","dg-note-properties":{"feed":false,"tags":["metadata"]}}
 ---
 
 # Top tags
