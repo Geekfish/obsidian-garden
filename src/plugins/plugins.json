@@ -26,6 +26,12 @@
     },
     "photo-album": {
       "enabled": true
+    },
+    "site-feed": {
+      "enabled": true,
+      "settings": {
+        "authorName": "Eleni Lixourioti"
+      }
     }
   }
 }

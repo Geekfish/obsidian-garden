@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"contact","permalink":"/contact/","pinned":true,"contentClasses":"contact-page","created":"2026-11-01T19:12:38.884+00:00","updated":"2026-11-01T19:30:22.470+00:00","dg-note-properties":{"pinned":true,"comments":false}}
+{"dg-publish":true,"dg-permalink":"contact","permalink":"/contact/","pinned":true,"contentClasses":"contact-page","created":"2026-11-01T19:12:38.884+00:00","updated":"2026-11-01T19:30:22.470+00:00","dg-note-properties":{"feed":false,"pinned":true,"comments":false}}
 ---
 
 

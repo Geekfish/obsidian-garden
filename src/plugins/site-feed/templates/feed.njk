@@ -1,0 +1,25 @@
+{%if meta.siteBaseUrl -%}
+{%- set entries = collections.note | siteFeedNotes -%}
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ meta.siteName }}</title>
+  <link href="{{ meta.siteBaseUrl }}{{ permalink }}" rel="self"/>
+  <link href="{{ meta.siteBaseUrl }}/"/>
+  <updated>{{ (entries | first | siteFeedUpdatedAt) | dateToZulu }}</updated>
+  {#- The id stays in this form because readers use it to recognise the feed. #}
+  <id>{{ meta.siteBaseUrl }}</id>
+  <author><name>{{ feedAuthorName or meta.siteName }}</name></author>
+  {%- for note in entries %}
+  <entry>
+    <title>{{ note.data.title or note.fileSlug }}</title>
+    {%- if note.data.created %}
+    <published>{{ note.data.created | dateToZulu }}</published>
+    {%- endif %}
+    <updated>{{ note | siteFeedUpdatedAt | dateToZulu }}</updated>
+    <id>{{ meta.siteBaseUrl }}{{ note.url | url }}</id>
+    <content type="html">{{- note.templateContent | hideDataview | taggify | link | resolveMdLinks(note.inputPath) | htmlToAbsoluteUrls(meta.siteBaseUrl) | xmlSafe -}}</content>
+    <link href="{{ meta.siteBaseUrl }}{{ note.url | url }}"/>
+  </entry>
+  {%- endfor %}
+</feed>
+{% endif %}

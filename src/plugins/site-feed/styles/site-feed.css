@@ -1,0 +1,9 @@
+.site-feed-footer {
+  padding: 1rem;
+  text-align: center;
+  font-size: var(--font-ui-small, 0.875rem);
+}
+
+.site-feed-footer a {
+  color: var(--text-muted);
+}
