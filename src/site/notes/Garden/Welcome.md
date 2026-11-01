@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T15:32:39.719+00:00","updated":"2026-11-01T18:24:16.679+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/welcome/","tags":["gardenEntry"],"created":"2024-03-01T15:32:39.719+00:00","updated":"2026-11-01T18:28:06.387+00:00","dg-note-properties":{}}
 ---
 
 # 👋 'ello!
@@ -11,6 +11,7 @@ I'm `Eleni Lixourioti` ([🔊](https://namedrop.io/elenilixourioti)) , welcome t
 
 ...or by good old [email](mailto:eleni.co@eleni.mozmail.com)
 ## Pinned
+- [[Photos/Photos\|Photos]]
 - [[Garden/Microbit Project 3 - Plants have feelings too\|Microbit Project 3 - Plants have feelings too]]
 
 { .block-language-dataview}
