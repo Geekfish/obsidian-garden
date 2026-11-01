@@ -14,7 +14,15 @@
         "src/plugins/giscus-comments/README.md",
         "src/plugins/giscus-comments/garden-plugin.json",
         "src/plugins/giscus-comments/templates/comments.njk"
-      ]
+      ],
+      "settings": {
+        "repo": "Geekfish/blog-eleni-co-comments",
+        "repoId": "",
+        "category": "Announcements",
+        "categoryId": "",
+        "theme": "noborder_light",
+        "showByDefault": false
+      }
     }
   }
 }
