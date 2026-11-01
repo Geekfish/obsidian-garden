@@ -1,0 +1,11 @@
+{#- Only the note with the photo-index class lists the albums -#}
+{%- if contentClasses and "photo-index" in contentClasses -%}
+<div class="photo-index-grid">
+  {%- for album in collections.note | photoAlbums -%}
+  <a class="photo-index-card" href="{{ album.url }}">
+    {%- if album.cover %}<img src="{{ album.cover }}" alt="" loading="lazy">{% endif -%}
+    <span>{{ album.title }}</span>
+  </a>
+  {%- endfor -%}
+</div>
+{%- endif -%}

@@ -1,0 +1,13 @@
+{
+  "id": "photo-album",
+  "name": "Photo Album",
+  "version": "1.0.0",
+  "description": "Photo grid for album notes and a main page that lists the albums.",
+  "author": "Eleni Lixourioti",
+  "hooks": "index.js",
+  "styles": ["styles/photo-album.css"],
+  "scripts": ["assets/lightbox.js"],
+  "slots": {
+    "notes.afterContent": "templates/albums.njk"
+  }
+}
